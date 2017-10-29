@@ -1,0 +1,114 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\ADMIN\AndroidStudioProjects\LabDatabaseNew\app\src\main\AndroidManifest.xml:2:1-26:12
+INJECTED from C:\Users\ADMIN\AndroidStudioProjects\LabDatabaseNew\app\src\main\AndroidManifest.xml:2:1-26:12
+INJECTED from C:\Users\ADMIN\AndroidStudioProjects\LabDatabaseNew\app\src\main\AndroidManifest.xml:2:1-26:12
+INJECTED from C:\Users\ADMIN\AndroidStudioProjects\LabDatabaseNew\app\src\main\AndroidManifest.xml:2:1-26:12
+MERGED from [com.android.support:design:23.4.0] C:\Users\ADMIN\.gradle\caches\transforms-1\files-1.1\design-23.4.0.aar\f1635de9efe7fe5d6f46d234e683f5ca\AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:appcompat-v7:23.4.0] C:\Users\ADMIN\.gradle\caches\transforms-1\files-1.1\appcompat-v7-23.4.0.aar\15271a7c07c23da492b63e9e33b8f54f\AndroidManifest.xml:17:1-27:12
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\ADMIN\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\68da448eba37d7ba4ad8055971bab906\AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:animated-vector-drawable:23.4.0] C:\Users\ADMIN\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-23.4.0.aar\6d9018b1aa9f6656b44ac897a3d0ca16\AndroidManifest.xml:2:1-9:12
+MERGED from [com.android.support:support-vector-drawable:23.4.0] C:\Users\ADMIN\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-23.4.0.aar\38c694365658362c6e3291b41ecffa82\AndroidManifest.xml:2:1-9:12
+MERGED from [com.android.support:recyclerview-v7:23.4.0] C:\Users\ADMIN\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-23.4.0.aar\1f31f1ec40df94f851f1f3cef344a860\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-v4:23.4.0] C:\Users\ADMIN\.gradle\caches\transforms-1\files-1.1\support-v4-23.4.0.aar\4054d398b0764e6aae87d9f88546780c\AndroidManifest.xml:17:1-24:12
+INJECTED from C:\Users\ADMIN\AndroidStudioProjects\LabDatabaseNew\app\src\main\AndroidManifest.xml:2:1-26:12
+INJECTED from C:\Users\ADMIN\AndroidStudioProjects\LabDatabaseNew\app\src\main\AndroidManifest.xml:2:1-26:12
+INJECTED from C:\Users\ADMIN\AndroidStudioProjects\LabDatabaseNew\app\src\main\AndroidManifest.xml:2:1-26:12
+	package
+		ADDED from C:\Users\ADMIN\AndroidStudioProjects\LabDatabaseNew\app\src\main\AndroidManifest.xml:3:5-46
+		INJECTED from C:\Users\ADMIN\AndroidStudioProjects\LabDatabaseNew\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\ADMIN\AndroidStudioProjects\LabDatabaseNew\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\ADMIN\AndroidStudioProjects\LabDatabaseNew\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\ADMIN\AndroidStudioProjects\LabDatabaseNew\app\src\main\AndroidManifest.xml:2:1-26:12
+		INJECTED from C:\Users\ADMIN\AndroidStudioProjects\LabDatabaseNew\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from C:\Users\ADMIN\AndroidStudioProjects\LabDatabaseNew\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\ADMIN\AndroidStudioProjects\LabDatabaseNew\app\src\main\AndroidManifest.xml:2:1-26:12
+		INJECTED from C:\Users\ADMIN\AndroidStudioProjects\LabDatabaseNew\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\ADMIN\AndroidStudioProjects\LabDatabaseNew\app\src\main\AndroidManifest.xml:2:11-69
+application
+ADDED from C:\Users\ADMIN\AndroidStudioProjects\LabDatabaseNew\app\src\main\AndroidManifest.xml:5:5-24:19
+MERGED from [com.android.support:design:23.4.0] C:\Users\ADMIN\.gradle\caches\transforms-1\files-1.1\design-23.4.0.aar\f1635de9efe7fe5d6f46d234e683f5ca\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:design:23.4.0] C:\Users\ADMIN\.gradle\caches\transforms-1\files-1.1\design-23.4.0.aar\f1635de9efe7fe5d6f46d234e683f5ca\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:appcompat-v7:23.4.0] C:\Users\ADMIN\.gradle\caches\transforms-1\files-1.1\appcompat-v7-23.4.0.aar\15271a7c07c23da492b63e9e33b8f54f\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:appcompat-v7:23.4.0] C:\Users\ADMIN\.gradle\caches\transforms-1\files-1.1\appcompat-v7-23.4.0.aar\15271a7c07c23da492b63e9e33b8f54f\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\ADMIN\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\68da448eba37d7ba4ad8055971bab906\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\ADMIN\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\68da448eba37d7ba4ad8055971bab906\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support:animated-vector-drawable:23.4.0] C:\Users\ADMIN\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-23.4.0.aar\6d9018b1aa9f6656b44ac897a3d0ca16\AndroidManifest.xml:7:5-20
+MERGED from [com.android.support:animated-vector-drawable:23.4.0] C:\Users\ADMIN\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-23.4.0.aar\6d9018b1aa9f6656b44ac897a3d0ca16\AndroidManifest.xml:7:5-20
+MERGED from [com.android.support:support-vector-drawable:23.4.0] C:\Users\ADMIN\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-23.4.0.aar\38c694365658362c6e3291b41ecffa82\AndroidManifest.xml:7:5-20
+MERGED from [com.android.support:support-vector-drawable:23.4.0] C:\Users\ADMIN\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-23.4.0.aar\38c694365658362c6e3291b41ecffa82\AndroidManifest.xml:7:5-20
+MERGED from [com.android.support:support-v4:23.4.0] C:\Users\ADMIN\.gradle\caches\transforms-1\files-1.1\support-v4-23.4.0.aar\4054d398b0764e6aae87d9f88546780c\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-v4:23.4.0] C:\Users\ADMIN\.gradle\caches\transforms-1\files-1.1\support-v4-23.4.0.aar\4054d398b0764e6aae87d9f88546780c\AndroidManifest.xml:22:5-20
+	android:supportsRtl
+		ADDED from C:\Users\ADMIN\AndroidStudioProjects\LabDatabaseNew\app\src\main\AndroidManifest.xml:9:9-35
+	android:label
+		ADDED from C:\Users\ADMIN\AndroidStudioProjects\LabDatabaseNew\app\src\main\AndroidManifest.xml:8:9-41
+	android:icon
+		ADDED from C:\Users\ADMIN\AndroidStudioProjects\LabDatabaseNew\app\src\main\AndroidManifest.xml:7:9-43
+	android:allowBackup
+		ADDED from C:\Users\ADMIN\AndroidStudioProjects\LabDatabaseNew\app\src\main\AndroidManifest.xml:6:9-35
+	android:theme
+		ADDED from C:\Users\ADMIN\AndroidStudioProjects\LabDatabaseNew\app\src\main\AndroidManifest.xml:10:9-40
+activity#my.edu.uitm.app1.labdatabasenew.MainActivity
+ADDED from C:\Users\ADMIN\AndroidStudioProjects\LabDatabaseNew\app\src\main\AndroidManifest.xml:11:9-20:20
+	android:label
+		ADDED from C:\Users\ADMIN\AndroidStudioProjects\LabDatabaseNew\app\src\main\AndroidManifest.xml:13:13-45
+	android:theme
+		ADDED from C:\Users\ADMIN\AndroidStudioProjects\LabDatabaseNew\app\src\main\AndroidManifest.xml:14:13-56
+	android:name
+		ADDED from C:\Users\ADMIN\AndroidStudioProjects\LabDatabaseNew\app\src\main\AndroidManifest.xml:12:13-41
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from C:\Users\ADMIN\AndroidStudioProjects\LabDatabaseNew\app\src\main\AndroidManifest.xml:15:13-19:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\ADMIN\AndroidStudioProjects\LabDatabaseNew\app\src\main\AndroidManifest.xml:16:17-69
+	android:name
+		ADDED from C:\Users\ADMIN\AndroidStudioProjects\LabDatabaseNew\app\src\main\AndroidManifest.xml:16:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\ADMIN\AndroidStudioProjects\LabDatabaseNew\app\src\main\AndroidManifest.xml:18:17-77
+	android:name
+		ADDED from C:\Users\ADMIN\AndroidStudioProjects\LabDatabaseNew\app\src\main\AndroidManifest.xml:18:27-74
+activity#my.edu.uitm.app1.labdatabasenew.CreateBiodataActivity
+ADDED from C:\Users\ADMIN\AndroidStudioProjects\LabDatabaseNew\app\src\main\AndroidManifest.xml:21:9-59
+	android:name
+		ADDED from C:\Users\ADMIN\AndroidStudioProjects\LabDatabaseNew\app\src\main\AndroidManifest.xml:21:19-56
+activity#my.edu.uitm.app1.labdatabasenew.UpdateBiodataActivity
+ADDED from C:\Users\ADMIN\AndroidStudioProjects\LabDatabaseNew\app\src\main\AndroidManifest.xml:22:9-59
+	android:name
+		ADDED from C:\Users\ADMIN\AndroidStudioProjects\LabDatabaseNew\app\src\main\AndroidManifest.xml:22:19-56
+activity#my.edu.uitm.app1.labdatabasenew.ViewBiodataActivity
+ADDED from C:\Users\ADMIN\AndroidStudioProjects\LabDatabaseNew\app\src\main\AndroidManifest.xml:23:9-66
+	android:name
+		ADDED from C:\Users\ADMIN\AndroidStudioProjects\LabDatabaseNew\app\src\main\AndroidManifest.xml:23:19-54
+uses-sdk
+INJECTED from C:\Users\ADMIN\AndroidStudioProjects\LabDatabaseNew\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\ADMIN\AndroidStudioProjects\LabDatabaseNew\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\ADMIN\AndroidStudioProjects\LabDatabaseNew\app\src\main\AndroidManifest.xml
+MERGED from [com.android.support:design:23.4.0] C:\Users\ADMIN\.gradle\caches\transforms-1\files-1.1\design-23.4.0.aar\f1635de9efe7fe5d6f46d234e683f5ca\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:design:23.4.0] C:\Users\ADMIN\.gradle\caches\transforms-1\files-1.1\design-23.4.0.aar\f1635de9efe7fe5d6f46d234e683f5ca\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:appcompat-v7:23.4.0] C:\Users\ADMIN\.gradle\caches\transforms-1\files-1.1\appcompat-v7-23.4.0.aar\15271a7c07c23da492b63e9e33b8f54f\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:appcompat-v7:23.4.0] C:\Users\ADMIN\.gradle\caches\transforms-1\files-1.1\appcompat-v7-23.4.0.aar\15271a7c07c23da492b63e9e33b8f54f\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\ADMIN\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\68da448eba37d7ba4ad8055971bab906\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\ADMIN\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\68da448eba37d7ba4ad8055971bab906\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:animated-vector-drawable:23.4.0] C:\Users\ADMIN\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-23.4.0.aar\6d9018b1aa9f6656b44ac897a3d0ca16\AndroidManifest.xml:5:5-44
+MERGED from [com.android.support:animated-vector-drawable:23.4.0] C:\Users\ADMIN\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-23.4.0.aar\6d9018b1aa9f6656b44ac897a3d0ca16\AndroidManifest.xml:5:5-44
+MERGED from [com.android.support:support-vector-drawable:23.4.0] C:\Users\ADMIN\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-23.4.0.aar\38c694365658362c6e3291b41ecffa82\AndroidManifest.xml:5:5-43
+MERGED from [com.android.support:support-vector-drawable:23.4.0] C:\Users\ADMIN\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-23.4.0.aar\38c694365658362c6e3291b41ecffa82\AndroidManifest.xml:5:5-43
+MERGED from [com.android.support:recyclerview-v7:23.4.0] C:\Users\ADMIN\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-23.4.0.aar\1f31f1ec40df94f851f1f3cef344a860\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:recyclerview-v7:23.4.0] C:\Users\ADMIN\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-23.4.0.aar\1f31f1ec40df94f851f1f3cef344a860\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-v4:23.4.0] C:\Users\ADMIN\.gradle\caches\transforms-1\files-1.1\support-v4-23.4.0.aar\4054d398b0764e6aae87d9f88546780c\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-v4:23.4.0] C:\Users\ADMIN\.gradle\caches\transforms-1\files-1.1\support-v4-23.4.0.aar\4054d398b0764e6aae87d9f88546780c\AndroidManifest.xml:20:5-43
+INJECTED from C:\Users\ADMIN\AndroidStudioProjects\LabDatabaseNew\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\ADMIN\AndroidStudioProjects\LabDatabaseNew\app\src\main\AndroidManifest.xml
+	tools:overrideLibrary
+		ADDED from [com.android.support:appcompat-v7:23.4.0] C:\Users\ADMIN\.gradle\caches\transforms-1\files-1.1\appcompat-v7-23.4.0.aar\15271a7c07c23da492b63e9e33b8f54f\AndroidManifest.xml:23:9-75
+	android:targetSdkVersion
+		INJECTED from C:\Users\ADMIN\AndroidStudioProjects\LabDatabaseNew\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\ADMIN\AndroidStudioProjects\LabDatabaseNew\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\ADMIN\AndroidStudioProjects\LabDatabaseNew\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\ADMIN\AndroidStudioProjects\LabDatabaseNew\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\ADMIN\AndroidStudioProjects\LabDatabaseNew\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\ADMIN\AndroidStudioProjects\LabDatabaseNew\app\src\main\AndroidManifest.xml
